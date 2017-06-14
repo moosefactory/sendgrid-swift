@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC35A2D81EF1259600A2FE92 /* NSBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC35A2D71EF1259600A2FE92 /* NSBridge.swift */; };
 		OBJ_103 /* APIV3.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_10 /* APIV3.swift */; };
 		OBJ_104 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_11 /* Response.swift */; };
 		OBJ_105 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* Session.swift */; };
@@ -98,6 +99,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BC35A2D71EF1259600A2FE92 /* NSBridge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSBridge.swift; sourceTree = "<group>"; };
 		OBJ_10 /* APIV3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIV3.swift; sourceTree = "<group>"; };
 		OBJ_11 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		OBJ_12 /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
@@ -356,6 +358,7 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_8 /* SendGrid */,
+				BC35A2D71EF1259600A2FE92 /* NSBridge.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -538,6 +541,7 @@
 				OBJ_115 /* DictionaryConvertible.swift in Sources */,
 				OBJ_116 /* HeaderValidator.swift in Sources */,
 				OBJ_117 /* HTTPMessage.swift in Sources */,
+				BC35A2D81EF1259600A2FE92 /* NSBridge.swift in Sources */,
 				OBJ_118 /* JSONConvertible.swift in Sources */,
 				OBJ_119 /* MailSetting.swift in Sources */,
 				OBJ_120 /* Request.swift in Sources */,
